@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1cZZIq/wUxQMJ13GUyU/19l9tuS7utJGuFFQPQXzU3E=",
+  "Source": "AssignmentWebApp",
+  "BasePath": "_content/AssignmentWebApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AssignmentWebApp\\wwwroot",
+      "Source": "AssignmentWebApp",
+      "ContentRoot": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\",
+      "BasePath": "_content/AssignmentWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\css\\site.css",
+      "SourceId": "AssignmentWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\",
+      "BasePath": "_content/AssignmentWebApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\images\\architecture.png.jpg",
+      "SourceId": "AssignmentWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\",
+      "BasePath": "_content/AssignmentWebApp",
+      "RelativePath": "images/architecture.png.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\architecture.png.jpg"
+    }
+  ]
+}

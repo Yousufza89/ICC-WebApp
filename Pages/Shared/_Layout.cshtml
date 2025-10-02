@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Semester Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    
+</head>
+<body>
+
+    <header>
+    <h1>🌐 ICC Assignment Web App</h1>
+    <div class="tabs">
+        <a asp-page="/Index" class="@(ViewData["ActiveTab"]?.ToString() == "Home" ? "active" : "")">🏠 Home</a>
+        <a asp-page="/Introduction" class="@(ViewData["ActiveTab"]?.ToString() == "Intro" ? "active" : "")">📖 Introduction</a>
+        <a asp-page="/Architecture" class="@(ViewData["ActiveTab"]?.ToString() == "Architecture" ? "active" : "")">📐 Architecture</a>
+        <a asp-page="/AzureServices" class="@(ViewData["ActiveTab"]?.ToString() == "Azure" ? "active" : "")">☁️ Azure Services</a>
+        <a asp-page="/Timeline" class="@(ViewData["ActiveTab"]?.ToString() == "Timeline" ? "active" : "")">📅 Timeline</a>
+        <a asp-page="/Contact" class="@(ViewData["ActiveTab"]?.ToString() == "Contact" ? "active" : "")">📧 Contact</a>
+    </div>
+
+
+    </header>
+
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>
+            Developed by <b>Muhammad Yousuf Rehan (22K-4457)</b><br />
+            Instructor: Muhammad Sudais | Group Project
+        </p>
+    </footer>
+</body>
+</html>

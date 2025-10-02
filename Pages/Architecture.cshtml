@@ -1,0 +1,15 @@
+@page
+@model ArchitectureModel
+@{
+    ViewData["Title"] = "Architecture";
+    ViewData["ActiveTab"] = "Architecture";
+}
+
+<h2>📐 Architecture</h2>
+<p>Our system follows a 3-tier architecture:</p>
+<ul>
+    <li><b>Presentation Layer</b> – ASP.NET Core Razor Pages on Azure App Service</li>
+    <li><b>Application Layer</b> – APIs, Azure Functions, Service Bus</li>
+    <li><b>Data Layer</b> – Azure SQL Database, Blob Storage</li>
+</ul>
+<img src="~/images/architecture.png" alt="Architecture Diagram" style="max-width:100%;border-radius:8px;box-shadow:0 2px 6px rgba(0,0,0,0.3);" />

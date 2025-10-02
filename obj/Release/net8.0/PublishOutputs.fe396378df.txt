@@ -1,0 +1,8 @@
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\AssignmentWebApp.exe
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\publish\web.config
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\publish\AssignmentWebApp.deps.json
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\publish\AssignmentWebApp.runtimeconfig.json
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\AssignmentWebApp.dll
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\AssignmentWebApp.deps.json
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\AssignmentWebApp.runtimeconfig.json
+C:\Users\yousu\Desktop\AssignmentWebApp\publish\AssignmentWebApp.pdb

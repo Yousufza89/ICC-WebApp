@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\yousu\\Desktop\\AssignmentWebApp\\wwwroot\\images\\architecture.png.jpg",
+      "PackagePath": "staticwebassets\\images\\architecture.png.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssignmentWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AssignmentWebApp.props",
+      "PackagePath": "build\\AssignmentWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AssignmentWebApp.props",
+      "PackagePath": "buildMultiTargeting\\AssignmentWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AssignmentWebApp.props",
+      "PackagePath": "buildTransitive\\AssignmentWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
